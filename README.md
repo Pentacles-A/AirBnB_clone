@@ -55,7 +55,7 @@ This repository constains the following files:
 ## Installation :hammer_and_wrench:
 Clone the repository and run the console.py
 ```
-$ git clone https://github.com/------/AirBnB_clone.git
+$ git clone https://github.com/Pentacles-A/AirBnB_clone.git
 ```
 
 ## Usage :wrench:
